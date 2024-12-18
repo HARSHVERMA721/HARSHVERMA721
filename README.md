@@ -42,4 +42,8 @@ You can click the Preview link to take a look at your changes.
 [linkedin]: https://www.linkedin.com/in/harsh-verma-74062b233/
 [gmail]: hv0096@gmail.com/
 
+Let's connect 👨‍💻 and forge the future together.😁✌
+
+**Check the Repositories and don't forget to give a star.** 👇
+
 ⭐️ From [Harsh Verma](https://github.com/HARSHVERMA721)
