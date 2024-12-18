@@ -1,11 +1,13 @@
 # Hi there, I'm Harsh 👋
 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 👀 I’m interested in new languages and technologies
+- 🌱 I’m currently learning app development
+- 💞️ I’m looking to collaborate on projects
+- 📫 Reach me  on Linkdin
+- <a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-verma-74062b233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-verma-74062b233/" height="30" width="40" /></a>
+- 
+- 
+- 
 
 <!---
 HARSHVERMA721/HARSHVERMA721 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +20,7 @@ You can click the Preview link to take a look at your changes.
 ### 🤝 Connect with me:
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-verma-74062b233/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-verma-74062b233/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/harsh-verma-74062b233/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harsh-verma-74062b233/" height="30" width="40" /></a>
 </p>
 
 <h3 align="center">A passionate frontend developer from India</h3>
