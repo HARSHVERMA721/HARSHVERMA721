@@ -34,11 +34,7 @@ You can click the Preview link to take a look at your changes.
 ---
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-master-******.vercel.app/api?username=harshverma721&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-git-master-******.vercel.app/api/top-langs/?username=harshverma721&layout=compact" />
+  <img src="https://streak-stats.demolab.com?user=harshverma721&theme=default" alt="GitHub Streak" />
 </p>
 
 
