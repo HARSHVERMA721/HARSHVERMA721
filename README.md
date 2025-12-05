@@ -37,6 +37,23 @@ You can click the Preview link to take a look at your changes.
   <img src="https://streak-stats.demolab.com?user=harshverma721&theme=default" alt="GitHub Streak" />
 </p>
 
+## 📊 Contribution & Language Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshverma721&theme=github" alt="GitHub Activity Graph" />
+</p>
+
+## 🥧 Languages Used (Pie Chart)
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=harshverma721" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=harshverma721" />
+</p>
+
+## 📘 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats-bhjx.vercel.app/api/top-langs?username=harshverma721&layout=compact" />
+</p>
+
+
 
 [linkedin]: https://www.linkedin.com/in/harsh-verma-74062b233/
 [gmail]: hv0096@gmail.com/
